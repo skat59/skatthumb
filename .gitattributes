@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=lf
+*.pug text eol=lf
+*.less text eol=lf
+*.js text eol=lf
+*.php text eol=lf
+*.html text eol=lf
+*.svg text eol=lf
+*.json text eol=lf
+*.tpl text eol=lf
+*.htaccess text eol=lf
+.htaccess text eol=lf

@@ -1,0 +1,24 @@
+{
+	"name": "skatthumb/nicestudio",
+	"type": "library",
+	"description": "Classes autoload in for Evolution CMS",
+	"authors": [
+		{
+			"name": "ProjectSoft",
+			"email": "projectsoft2009@yandex.ru"
+		}
+	],
+	"require": {
+		"php": ">=5.6.0",
+		"ext-ctype": "*"
+	},
+	"require-dev": {},
+	"suggest": {},
+	"autoload": {
+		"psr-4": {
+			"SkatThumb\\": "classes/"
+		}
+	},
+	"autoload-dev": {},
+	"license": "LGPL-2.1"
+}
